@@ -152,7 +152,3 @@
   <sub>✨ Terbuka untuk diskusi dan kolaborasi. Kunjungi <a href="https://www.afilhqy.site/">afilhqy.site</a> atau kirim pesan ke <a href="mailto:afilhqy.4@gmail.com">afilhqy.4@gmail.com</a>.</sub>
 </div>
 <br/>
-
-<div align="center">
-  <sub>✨ Terbuka untuk diskusi dan kolaborasi. Kunjungi <a href="https://www.afilhqy.site/">afilhqy.site</a> atau kirim pesan ke <a href="mailto:afilhqy.4@gmail.com">afilhqy.4@gmail.com</a>.</sub>
-</div>
