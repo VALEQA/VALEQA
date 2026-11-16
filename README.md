@@ -133,13 +133,24 @@
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 Statistik & Aktivitas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VALEQA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistik GitHub VALEQA" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VALEQA&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=VALEQA&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VALEQA&theme=tokyonight" alt="Top Languages" height="160" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VALEQA&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>✨ Terbuka untuk diskusi dan kolaborasi. Kunjungi <a href="https://www.afilhqy.site/">afilhqy.site</a> atau kirim pesan ke <a href="mailto:afilhqy.4@gmail.com">afilhqy.4@gmail.com</a>.</sub>
+</div>
 <br/>
 
 <div align="center">
